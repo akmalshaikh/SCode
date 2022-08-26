@@ -28,6 +28,8 @@
 	<div class="container">
 
 		<header>
+			<h1>Hi Akmal, this is our</h1>
+
 			<h1>e-commerce Portal</h1> 
 		</header>
 
